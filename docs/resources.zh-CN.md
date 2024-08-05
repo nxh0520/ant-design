@@ -120,7 +120,7 @@ description: 这里汇总了与 Ant Design 相关的所有资源。
 
 ### UI/UE 设计师
 
-简历和作品集请投递：jiayin.liu#antgroup.com
+简历和作品集请投递：jiayin.liu@antgroup.com
 
 > 注明简历来自 ant.design 官网
 
@@ -177,7 +177,7 @@ description: 这里汇总了与 Ant Design 相关的所有资源。
 
 ### ADI（Artificial Design Intelligence） 工程师
 
-简历和作品集请投递：jiayin.liu#antgroup.com
+简历和作品集请投递：jiayin.liu@antgroup.com
 
 > 注明简历来自 ant.design 官网
 
